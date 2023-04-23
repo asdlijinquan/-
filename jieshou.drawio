@@ -1,19 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T04:17:28.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="HIMUNvGcUR9zwBMUEFzq" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T06:06:04.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="ZH7QVVIknqPrmkUMzbCy" version="21.2.1" type="github">
   <diagram name="第 1 页" id="QVGh8b3222AXSPBpTW67">
-    <mxGraphModel dx="548" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="802" dy="425" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mxx8n0SEemxipuw1-2DI-8" value="代理节点群" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137.5" y="275" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mxx8n0SEemxipuw1-2DI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mxx8n0SEemxipuw1-2DI-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="310" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="20" y="320" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="mxx8n0SEemxipuw1-2DI-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxx8n0SEemxipuw1-2DI-33" target="mxx8n0SEemxipuw1-2DI-36">
           <mxGeometry relative="1" as="geometry" />
@@ -136,6 +128,12 @@
             <Array as="points">
               <mxPoint x="392.13" y="250" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mxx8n0SEemxipuw1-2DI-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mxx8n0SEemxipuw1-2DI-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="46" y="315" as="sourcePoint" />
+            <mxPoint x="103" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
