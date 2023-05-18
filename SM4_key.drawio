@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T03:47:51.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="aSR9uVuQYSYgId6zXgQr" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T03:48:15.654Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="ruIVpaWwyjQWINBhOqNg" version="21.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1166" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="pWbdkEO55zlSCVrnX6s8-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWbdkEO55zlSCVrnX6s8-0" target="pWbdkEO55zlSCVrnX6s8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pWbdkEO55zlSCVrnX6s8-0" value="将128bit的种子秘钥分成4个32bit的数,SK0,SK1,SK2,SK3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pWbdkEO55zlSCVrnX6s8-0" value="将128bit的种子秘钥分成4个32bit的数(SK0,SK1,SK2,SK3)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="137.5" y="180" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWbdkEO55zlSCVrnX6s8-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWbdkEO55zlSCVrnX6s8-4">
