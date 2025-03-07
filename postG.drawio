@@ -199,7 +199,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8ajHZUMaO3F3XkDTtNsn" name="第 3 页">
-    <mxGraphModel dx="2051" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2051" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -390,18 +390,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6a-QV8mlCyft7PO4fem4-63" value="阶段说明：&#xa;1. 各方生成随机数&#xa;2. 计算并广播承诺值&#xa;3. 广播随机数并验证承诺&#xa;4. 计算共享种子&#xa;5. 派生密钥并分片存储" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;align=left;fontSize=12;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="470" width="200" height="100" as="geometry" />
+          <mxGeometry x="-120" y="470" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="osVpfzHwLgI8vsSXCEUP" name="第 4 页">
-    <mxGraphModel dx="1224" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r15EXsanfe6-R22-IPJN-1" value="基于哈希链累加器的密钥管理流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="400" height="30" as="geometry" />
+          <mxGeometry x="200" y="13" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r15EXsanfe6-R22-IPJN-2" value="初始化阶段" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="100" width="200" height="120" as="geometry" />
@@ -587,16 +587,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r15EXsanfe6-R22-IPJN-44" value="哈希链累加器特性：&#xa;1. 单向性：只能正向计算&#xa;2. 可验证性：验证密钥是否在链上&#xa;3. 高效撤销：撤销后续所有密钥&#xa;4. 密钥派生：从链节点派生多个密钥" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;align=left;fontSize=12;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="120" y="700" width="240" height="100" as="geometry" />
+          <mxGeometry x="120" y="750" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="r15EXsanfe6-R22-IPJN-45" value="安全优势：&#xa;1. 前向安全性：泄露不影响之前密钥&#xa;2. 高效验证：无需存储所有密钥&#xa;3. 紧凑存储：只需存储当前节点&#xa;4. 抗量子：基于哈希函数的安全性" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;align=left;fontSize=12;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="440" y="700" width="240" height="100" as="geometry" />
+          <mxGeometry x="450" y="750" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="vm60eU2TjRDVLq65AAiN" name="第 5 页">
-    <mxGraphModel dx="1224" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -667,19 +667,19 @@
           <mxGeometry x="120" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ihw17ptc5NS77Dn7nUz-23" value="轻量级加密算法示例" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="520" y="410" width="200" height="150" as="geometry" />
+          <mxGeometry x="520" y="410" width="208" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6ihw17ptc5NS77Dn7nUz-24" value="PRESENT (64位分组, 80/128位密钥)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="6ihw17ptc5NS77Dn7nUz-23">
-          <mxGeometry y="30" width="200" height="30" as="geometry" />
+          <mxGeometry y="30" width="208" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6ihw17ptc5NS77Dn7nUz-25" value="SIMON/SPECK (NSA设计)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="6ihw17ptc5NS77Dn7nUz-23">
-          <mxGeometry y="60" width="200" height="30" as="geometry" />
+          <mxGeometry y="60" width="208" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6ihw17ptc5NS77Dn7nUz-26" value="SKINNY (轻量级SPN结构)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="6ihw17ptc5NS77Dn7nUz-23">
-          <mxGeometry y="90" width="200" height="30" as="geometry" />
+          <mxGeometry y="90" width="208" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6ihw17ptc5NS77Dn7nUz-27" value="GIFT (硬件优化的S盒)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="6ihw17ptc5NS77Dn7nUz-23">
-          <mxGeometry y="120" width="200" height="30" as="geometry" />
+          <mxGeometry y="120" width="208" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6ihw17ptc5NS77Dn7nUz-28" value="应用场景" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="500" width="200" height="150" as="geometry" />
