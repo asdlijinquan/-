@@ -1,11 +1,88 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="第 1 页" id="AMXaZezd7IBLnM22SHgh">
-    <mxGraphModel dx="697" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="874" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o4QZ5QEltL1516JYsHIC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-18" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="212" y="20" width="407" height="807" as="geometry" />
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-19" value="外部环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="172" height="807" as="geometry" />
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-20" value="数据/事件" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="55" y="45" width="102" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-21" value="状态改变" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="59" y="724" width="94" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-22" value="&#xa;通过传感器/探针收集环境信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="302" y="197" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-23" value="决策引擎 (Decision-making)&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="302" y="349" width="260" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-24" value="&#xa;通过执行器执行决策&#xa;对环境产生影响" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="261" y="525" width="204" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-25" value="&#xa;通过交互结果和反馈&#xa;不断优化决策模型和策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="337" y="700" width="244" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vpCU-5W5B5tJJJ8MTjzh-22" target="vpCU-5W5B5tJJJ8MTjzh-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vpCU-5W5B5tJJJ8MTjzh-23" target="vpCU-5W5B5tJJJ8MTjzh-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="363" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="vpCU-5W5B5tJJJ8MTjzh-24" target="vpCU-5W5B5tJJJ8MTjzh-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="664" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-29" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.66;exitY=0;entryX=0.76;entryY=1;rounded=0;" edge="1" parent="1" source="vpCU-5W5B5tJJJ8MTjzh-25" target="vpCU-5W5B5tJJJ8MTjzh-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="527" y="664" />
+              <mxPoint x="527" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-30" value="数据输入" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.2;rounded=0;" edge="1" parent="1" source="vpCU-5W5B5tJJJ8MTjzh-20" target="vpCU-5W5B5tJJJ8MTjzh-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="106" y="172" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-31" value="指令输出" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=1;entryX=1;entryY=0.15;rounded=0;" edge="1" parent="1" source="vpCU-5W5B5tJJJ8MTjzh-24" target="vpCU-5W5B5tJJJ8MTjzh-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="322" y="664" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-32" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;AI智能体核心架构&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="323" y="52.5" width="185" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-33" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;基于知识库、模型和目标&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;进行分析、推理并规划行动&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="352.0023529411766" y="412.00352941176465" width="172" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-34" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;行动模块 (Action)&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315.0017647058824" y="542.0023529411766" width="165" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-36" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;学习/优化模块 (Learning)&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384.004117647059" y="720" width="161" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="vpCU-5W5B5tJJJ8MTjzh-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;感知模块 (Perception)&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5052941176473" y="223.0011764705883" width="145" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
