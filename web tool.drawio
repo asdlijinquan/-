@@ -1,9 +1,86 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Page-1" id="YaTHvRCSJM40A4p92zuW">
-    <mxGraphModel>
+    <mxGraphModel dx="1216" dy="779" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="top_container" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=40;horizontal=1;horizontalStack=0;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSize=16;fontStyle=1;fillColor=#ffffff;strokeColor=#6c8ebf;align=center;" value="集团主体定位" vertex="1">
+          <mxGeometry height="350" width="720" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="layer_app" parent="top_container" style="swimlane;html=1;startSize=40;horizontal=0;whiteSpace=wrap;collapsible=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;strokeColor=#6c8ebf;align=center;fontSize=14;fontStyle=1;textDirection=vertical-lr;" value="应&lt;br&gt;用&lt;br&gt;层" vertex="1">
+          <mxGeometry height="110" width="720" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_app_1" parent="layer_app" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#204E7C;strokeColor=none;fontColor=#ffffff;fontSize=13;" value="主体发现库" vertex="1">
+          <mxGeometry height="35" width="240" x="100" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_app_2" parent="layer_app" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#204E7C;strokeColor=none;fontColor=#ffffff;fontSize=13;" value="主体定位库" vertex="1">
+          <mxGeometry height="35" width="240" x="420" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_app_3" parent="layer_app" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#204E7C;strokeColor=none;fontColor=#ffffff;fontSize=13;" value="主体测绘任务" vertex="1">
+          <mxGeometry height="35" width="240" x="100" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_app_4" parent="layer_app" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#204E7C;strokeColor=none;fontColor=#ffffff;fontSize=13;" value="主体测绘引擎" vertex="1">
+          <mxGeometry height="35" width="240" x="420" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="layer_algo" parent="top_container" style="swimlane;html=1;startSize=40;horizontal=0;whiteSpace=wrap;collapsible=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;strokeColor=#6c8ebf;align=center;fontSize=14;fontStyle=1;textDirection=vertical-lr;" value="算&lt;br&gt;法&lt;br&gt;层" vertex="1">
+          <mxGeometry height="90" width="720" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_algo_1" parent="layer_algo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#204E7C;strokeColor=none;fontColor=#ffffff;fontSize=13;" value="多维置信度评估" vertex="1">
+          <mxGeometry height="35" width="160" x="100" y="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_algo_2" parent="layer_algo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#204E7C;strokeColor=none;fontColor=#ffffff;fontSize=13;" value="融合关联算法" vertex="1">
+          <mxGeometry height="35" width="160" x="290" y="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_algo_3" parent="layer_algo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#204E7C;strokeColor=none;fontColor=#ffffff;fontSize=13;" value="多源数据联合调度" vertex="1">
+          <mxGeometry height="35" width="180" x="480" y="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="layer_data" parent="top_container" style="swimlane;html=1;startSize=40;horizontal=0;whiteSpace=wrap;collapsible=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;strokeColor=#6c8ebf;align=center;fontSize=14;fontStyle=1;textDirection=vertical-lr;" value="数&lt;br&gt;据&lt;br&gt;层" vertex="1">
+          <mxGeometry height="110" width="720" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_data_1" parent="layer_data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#204E7C;strokeColor=none;fontColor=#ffffff;fontSize=13;" value="数据采集" vertex="1">
+          <mxGeometry height="35" width="160" x="100" y="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_data_2" parent="layer_data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#204E7C;strokeColor=none;fontColor=#ffffff;fontSize=13;" value="数据标准化" vertex="1">
+          <mxGeometry height="35" width="160" x="290" y="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_data_3" parent="layer_data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#204E7C;strokeColor=none;fontColor=#ffffff;fontSize=13;" value="数据存储与服务" vertex="1">
+          <mxGeometry height="35" width="180" x="480" y="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bottom_container" parent="1" style="swimlane;html=1;startSize=30;horizontal=0;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#6c8ebf;fillColor=none;fontSize=14;fontStyle=1;align=center;" value="基础数据源" vertex="1">
+          <mxGeometry height="94" width="720" x="40" y="440" as="geometry">
+            <mxRectangle height="99" width="35" x="40" y="440" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item_1_1" parent="bottom_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8DAAD4;strokeColor=none;fontColor=#ffffff;fontSize=12;" value="IP备案系统" vertex="1">
+          <mxGeometry height="25" width="160" x="90" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="item_1_2" parent="bottom_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8DAAD4;strokeColor=none;fontColor=#ffffff;fontSize=12;" value="ICP备案系统" vertex="1">
+          <mxGeometry height="25" width="160" x="283" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="item_1_3" parent="bottom_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8DAAD4;strokeColor=none;fontColor=#ffffff;fontSize=12;" value="上网日志集中存储" vertex="1">
+          <mxGeometry height="25" width="160" x="465" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="item_1_4" parent="bottom_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8DAAD4;strokeColor=none;fontColor=#ffffff;fontSize=12;" value="综资管理系统" vertex="1">
+          <mxGeometry height="25" width="160" x="283" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="D2zFQ80xFBYX_IrA7rWv-1" parent="bottom_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8DAAD4;strokeColor=none;fontColor=#ffffff;fontSize=12;" value="移动云安全云脑" vertex="1">
+          <mxGeometry height="25" width="160" x="465" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="D2zFQ80xFBYX_IrA7rWv-2" parent="bottom_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8DAAD4;strokeColor=none;fontColor=#ffffff;fontSize=12;" value="资产管理系统" vertex="1">
+          <mxGeometry height="25" width="160" x="90" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#4D73B3;strokeColor=none;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="435" as="sourcePoint" />
+            <mxPoint x="250" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow2" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#4D73B3;strokeColor=none;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="435" as="sourcePoint" />
+            <mxPoint x="550" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
