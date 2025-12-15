@@ -1,0 +1,126 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.4">
+  <diagram name="第 1 页" id="EkNCcjHV4o9mo0Mc3QNa">
+    <mxGraphModel dx="1678" dy="874" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-1" parent="1" style="text;html=1;strokeColor=light-dark(#1a9cff, #824100);fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#D4A017;fontSize=16;fontStyle=1" value="&lt;font style=&quot;color: light-dark(rgb(14, 94, 180), rgb(237, 237, 237));&quot;&gt;流程图-数据类-主体定位&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="498" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=light-dark(#1a9cff, #824100);fontColor=#666666;fillColor=#FFFFFF;" value="部侧网络安全中台" vertex="1">
+          <mxGeometry height="40" width="200" x="718" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#666666;" value="主体信息需求：通过ip查询手机号&lt;br&gt;网站信息需求：ip查询网站信息" vertex="1">
+          <mxGeometry height="40" width="240" x="1038" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;fontColor=#333333;fontSize=14;" value="移动侧网络安全数据中台" vertex="1">
+          <mxGeometry height="50" width="440" x="598" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;arcSize=10;verticalAlign=top;" value="" vertex="1">
+          <mxGeometry height="440" width="820" x="458" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-6" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;writingMode=vertical-rl;fontSize=14;fontStyle=1;flipV=1;flipH=1;textDirection=vertical-rl;" value="中国移动侧网络安全&lt;br&gt;攻击溯源定位平台" vertex="1">
+          <mxGeometry height="200" width="60" x="458" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;verticalAlign=middle;spacingLeft=10;" value="接口网关" vertex="1">
+          <mxGeometry height="60" width="680" x="518" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据查询服务接口" vertex="1">
+          <mxGeometry height="40" width="100" x="598" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据确认接收接口" vertex="1">
+          <mxGeometry height="40" width="100" x="718" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据反馈接收接口" vertex="1">
+          <mxGeometry height="40" width="100" x="838" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="指令下发服务接口" vertex="1">
+          <mxGeometry height="40" width="100" x="958" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-12" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFFF;strokeColor=#FFB366;fontColor=#333333;fontSize=14;" value="Mysql" vertex="1">
+          <mxGeometry height="60" width="80" x="718" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;" value="主体定位模块&lt;br&gt;(用户信息、网站信息)" vertex="1">
+          <mxGeometry height="80" width="160" x="578" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-14" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFFF;strokeColor=#FFB366;fontColor=#333333;fontSize=14;" value="Mysql" vertex="1">
+          <mxGeometry height="60" width="80" x="788" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;" value="通联记录模块" vertex="1">
+          <mxGeometry height="80" width="140" x="918" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-16" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8;fillColor=#FFFFFF;strokeColor=#6c8ebf;fontColor=#333333;fontSize=14;" value="SFTP&lt;br&gt;服务器" vertex="1">
+          <mxGeometry height="80" width="110" x="1118" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-17" edge="1" parent="1" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="4HHqjytc3klfwSQ2gb6L-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="648" y="545" as="sourcePoint" />
+            <mxPoint x="648" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-18" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" value="1.调用接口，查询用户信息或网站信息。&lt;br&gt;参数XXX&lt;br&gt;返回结果包含一个唯一标识id" vertex="1">
+          <mxGeometry height="60" width="200" x="560.5" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-19" edge="1" parent="1" source="4HHqjytc3klfwSQ2gb6L-8" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.114;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" target="4HHqjytc3klfwSQ2gb6L-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="648" y="315" as="sourcePoint" />
+            <mxPoint x="668" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-20" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" value="2.HTTPS Restful调用&lt;br&gt;用户信息指令：G.4.9 ... (数据及寻址码)&lt;br&gt;网站信息指令：G.4.10 ... (数据及寻址码)" vertex="1">
+          <mxGeometry height="45" width="189" x="458" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-21" edge="1" parent="1" source="4HHqjytc3klfwSQ2gb6L-9" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="758" y="315" as="sourcePoint" />
+            <mxPoint x="768" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-22" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" value="&lt;b&gt;3.HTTPS Restful调用&lt;/b&gt;&lt;br&gt;G.4.8 通用查询指令确认" vertex="1">
+          <mxGeometry height="60" width="115" x="658" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-23" edge="1" parent="1" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4HHqjytc3klfwSQ2gb6L-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="888" y="226" as="sourcePoint" />
+            <mxPoint x="868" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-24" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;4.HTTPS Restful调用&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;F.2.1溯源平台用户信息查询反馈&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;F.3.1溯源平台网站信息查询反馈&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="898" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-25" edge="1" parent="1" source="4HHqjytc3klfwSQ2gb6L-8" style="endArrow=classic;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="4HHqjytc3klfwSQ2gb6L-12" value="保存或更新数据查询记录">
+          <mxGeometry height="50" relative="1" width="50" x="-0.3258" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="648" y="455" />
+            </Array>
+            <mxPoint x="668" y="385" as="sourcePoint" />
+            <mxPoint x="718" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-26" edge="1" parent="1" source="4HHqjytc3klfwSQ2gb6L-10" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="4HHqjytc3klfwSQ2gb6L-13" value="5.唯一标识id，以及&lt;br&gt;用户手机号+宽带账号&lt;br&gt;企业名称">
+          <mxGeometry height="50" relative="1" width="50" x="-0.1667" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="888" y="585" />
+            </Array>
+            <mxPoint x="868" y="385" as="sourcePoint" />
+            <mxPoint x="868" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-27" edge="1" parent="1" source="4HHqjytc3klfwSQ2gb6L-13" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="4HHqjytc3klfwSQ2gb6L-14" value="6.保存主体信息到mysql">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="675" />
+            </Array>
+            <mxPoint x="658" y="645" as="sourcePoint" />
+            <mxPoint x="758" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4HHqjytc3klfwSQ2gb6L-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="指令反馈服务接口" vertex="1">
+          <mxGeometry height="40" width="100" x="1078" y="325" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
