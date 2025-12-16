@@ -293,6 +293,9 @@
         <mxCell id="oz1maSjCJT_jzkWnZgyo-17" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;人工分析&lt;/span&gt;" vertex="1">
           <mxGeometry height="24" width="60" x="689" y="865" as="geometry" />
         </mxCell>
+        <mxCell id="oz1maSjCJT_jzkWnZgyo-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;arcSize=10;verticalAlign=top;glass=0;shadow=0;fillColor=none;strokeColor=#666666;fontColor=#333333;" value="" vertex="1">
+          <mxGeometry height="793" width="872" x="465" y="373" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
