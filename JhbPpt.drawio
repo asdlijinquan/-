@@ -498,7 +498,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vJlOVfHpATEwvC5llpPt" name="第 4 页">
-    <mxGraphModel dx="1152" dy="1237" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="874" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -508,77 +508,77 @@
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-147" parent="oKDtxWxFo2h5xGWPVuZX-146" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="安全&lt;br&gt;系统" vertex="1">
           <mxGeometry height="40" width="40" x="10" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-150" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#d6b656;" value="资产管理系统" vertex="1">
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-150" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="资产管理系统" vertex="1">
+          <mxGeometry height="25" width="130" x="70" y="116" as="geometry" />
+        </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-151" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="总部综合资管平台" vertex="1">
           <mxGeometry height="25" width="130" x="220" y="45" as="geometry" />
         </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-151" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#d6b656;" value="总部综合资管平台" vertex="1">
-          <mxGeometry height="25" width="130" x="220" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-152" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="APT监测防护系统(阿波罗)" vertex="1">
-          <mxGeometry height="25" width="130" x="520" y="45" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-154" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="抗DDoS攻击系统" vertex="1">
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-154" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="抗DDoS攻击系统" vertex="1">
           <mxGeometry height="25" width="130" x="70" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-162" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="数智化部安全态势感知平台" vertex="1">
+          <mxGeometry height="25" width="130" x="70" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-163" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" value="省级网络安全态势感知平台" vertex="1">
+          <mxGeometry height="25" width="130" x="670" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-165" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="IP运维工作台" vertex="1">
+          <mxGeometry height="25" width="130" x="364" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-155" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="APT监测平台(信安)" vertex="1">
+          <mxGeometry height="25" width="130" x="70" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-157" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="上网日志集中存储平台" vertex="1">
+          <mxGeometry height="25" width="130" x="364" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-148" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="云能力中心-安全云脑" vertex="1">
+          <mxGeometry height="25" width="130" x="517" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-164" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="蜜罐" vertex="1">
+          <mxGeometry height="25" width="130" x="670" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-160" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="IDC/ISP信息安全管理系统" vertex="1">
+          <mxGeometry height="25" width="130" x="220" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-149" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="省级IP运维工作台" vertex="1">
+          <mxGeometry height="25" width="130" x="818" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-82" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="物联网系统" vertex="1">
+          <mxGeometry height="25" width="130" x="818" y="116" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-83" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#d6b656;" value="家宽上网日志系统" vertex="1">
+          <mxGeometry height="25" width="130" x="517" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-84" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="CDN系统" vertex="1">
+          <mxGeometry height="25" width="130" x="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-85" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#d6b656;" value="移动上网日志系统" vertex="1">
+          <mxGeometry height="25" width="130" x="517" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-81" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="DNS系统" vertex="1">
+          <mxGeometry height="25" width="130" x="220" y="116" as="geometry" />
+        </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-156" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="上网日志查询平台" vertex="1">
+          <mxGeometry height="25" width="130" x="515" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-161" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="IP备案系统" vertex="1">
+          <mxGeometry height="25" width="130" x="364" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-80" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="ICP/网站备案系统" vertex="1">
+          <mxGeometry height="25" width="130" x="364" y="80" as="geometry" />
+        </mxCell>
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-158" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="僵木蠕监测平台" vertex="1">
-          <mxGeometry height="25" width="130" x="520" y="80" as="geometry" />
+          <mxGeometry height="25" width="130" x="818" y="45" as="geometry" />
         </mxCell>
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-159" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="手机恶意程序监控系统" vertex="1">
           <mxGeometry height="25" width="130" x="670" y="45" as="geometry" />
         </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-162" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" value="数智化部安全态势感知平台" vertex="1">
-          <mxGeometry height="25" width="130" x="70" y="10" as="geometry" />
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-152" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="APT监测防护系统(阿波罗)" vertex="1">
+          <mxGeometry height="25" width="130" x="670" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-163" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" value="省级网络安全态势感知平台" vertex="1">
-          <mxGeometry height="25" width="130" x="670" y="12" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-165" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#6c8ebf;" value="IP运维工作台" vertex="1">
-          <mxGeometry height="25" width="130" x="820" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-155" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="APT监测平台(信安)" vertex="1">
-          <mxGeometry height="25" width="130" x="70" y="45" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-157" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="上网日志集中存储平台" vertex="1">
-          <mxGeometry height="25" width="130" x="820" y="12" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-153" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="安管/湖南溯源定位系统" vertex="1">
-          <mxGeometry height="25" width="130" x="370" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-161" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="IP/网站备案系统" vertex="1">
-          <mxGeometry height="25" width="130" x="370" y="45" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-148" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="云能力中心-安全云脑" vertex="1">
-          <mxGeometry height="25" width="130" x="370" y="12" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-164" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="蜜罐" vertex="1">
-          <mxGeometry height="25" width="130" x="520" y="12" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-160" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="IDC/ISP信息安全管理系统" vertex="1">
-          <mxGeometry height="25" width="130" x="670" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-156" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="上网日志查询平台" vertex="1">
-          <mxGeometry height="25" width="130" x="220" y="12" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-149" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#6c8ebf;" value="CDN-省节点" vertex="1">
-          <mxGeometry height="25" width="130" x="820" y="45" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-80" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="" vertex="1">
-          <mxGeometry height="25" width="130" x="220" y="116" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-81" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="DNS系统" vertex="1">
-          <mxGeometry height="25" width="130" x="70" y="116" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-82" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="物联网系统" vertex="1">
-          <mxGeometry height="25" width="130" x="520" y="116" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-83" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="" vertex="1">
-          <mxGeometry height="25" width="130" x="820" y="116" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-84" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="" vertex="1">
-          <mxGeometry height="25" width="130" x="370" y="116" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-85" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="移动上网日志系统" vertex="1">
-          <mxGeometry height="25" width="130" x="670" y="116" as="geometry" />
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-153" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" value="安徽/湖南溯源定位系统" vertex="1">
+          <mxGeometry height="25" width="130" x="818" y="10" as="geometry" />
         </mxCell>
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-91" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="部侧" vertex="1">
           <mxGeometry height="149" width="160" x="637" y="343" as="geometry" />
@@ -664,30 +664,6 @@
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-174" parent="oKDtxWxFo2h5xGWPVuZX-110" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;" value="流量样本类" vertex="1">
           <mxGeometry height="64" width="15" x="585" y="96" as="geometry" />
         </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-17" connectable="0" parent="oKDtxWxFo2h5xGWPVuZX-110" style="group;dashed=1;fillColor=none;fontColor=#333333;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="158" width="192" x="760" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-18" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="资产管理信息" vertex="1">
-          <mxGeometry height="40" width="76.80000000000001" x="9.600000000000001" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-19" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="公有云主体信&#xa;息及密钥信息" vertex="1">
-          <mxGeometry height="40" width="76.80000000000001" x="91.2" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-20" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="网站备案数据" vertex="1">
-          <mxGeometry height="40" width="76.80000000000001" x="9.600000000000001" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-21" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="CDN IP域名&#xa;主体信息" vertex="1">
-          <mxGeometry height="40" width="76.80000000000001" x="91.2" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-22" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="用户归属数据" vertex="1">
-          <mxGeometry height="40" width="76.80000000000001" x="9.600000000000001" y="110" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-23" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="综资IP主体信息" vertex="1">
-          <mxGeometry height="40" width="76.80000000000001" x="91.2" y="110" as="geometry" />
-        </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-31" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="158" width="178" as="geometry" />
-        </mxCell>
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-131" parent="oKDtxWxFo2h5xGWPVuZX-110" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;" value="日志类" vertex="1">
           <mxGeometry height="64" width="22" x="388" y="96" as="geometry" />
         </mxCell>
@@ -738,6 +714,30 @@
         </mxCell>
         <mxCell id="OLgHzJhwReHn5mEYLC4w-79" parent="oKDtxWxFo2h5xGWPVuZX-110" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="180" width="138" x="604" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-17" connectable="0" parent="oKDtxWxFo2h5xGWPVuZX-110" style="group;dashed=1;fillColor=none;fontColor=#333333;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="158" width="192" x="768" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-31" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="158" width="178" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-18" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="资产管理信息" vertex="1">
+          <mxGeometry height="40" width="76.80000000000001" x="9.600000000000001" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-19" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="公有云主体信&#xa;息及密钥信息" vertex="1">
+          <mxGeometry height="40" width="76.80000000000001" x="91.2" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-20" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="网站备案数据" vertex="1">
+          <mxGeometry height="40" width="76.80000000000001" x="9.600000000000001" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-21" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="CDN IP域名&#xa;主体信息" vertex="1">
+          <mxGeometry height="40" width="76.80000000000001" x="91.2" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-22" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="用户归属数据" vertex="1">
+          <mxGeometry height="40" width="76.80000000000001" x="9.600000000000001" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-23" parent="OLgHzJhwReHn5mEYLC4w-17" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="IP主体信息" vertex="1">
+          <mxGeometry height="40" width="76.80000000000001" x="91.2" y="110" as="geometry" />
         </mxCell>
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-166" edge="1" parent="1" style="endArrow=none;startArrow=classic;html=1;entryX=0;entryY=0.5;endFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -937,6 +937,147 @@
         <mxCell id="OLgHzJhwReHn5mEYLC4w-66" parent="OLgHzJhwReHn5mEYLC4w-63" style="rounded=0;whiteSpace=wrap;html=1;" value="突发事件" vertex="1">
           <mxGeometry height="30" width="120" x="20" y="110" as="geometry" />
         </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=0;dashed=1;fillColor=none;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="113" width="960" x="649" y="1605" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-2" parent="qUD11XV8ODbNQHaWg1qz-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="来源系统" vertex="1">
+          <mxGeometry height="81" width="14" x="8" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-3" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="省级IP运维工作台" vertex="1">
+          <mxGeometry height="25" width="140" x="810" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-4" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="IP备案系统" vertex="1">
+          <mxGeometry height="25" width="130" x="218" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-5" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="云能力中心-安全云脑" vertex="1">
+          <mxGeometry height="94" width="130" x="370" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-6" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="IDC/ISP信息安全管理系统" vertex="1">
+          <mxGeometry height="25" width="140" x="810" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-7" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="上网日志查询平台" vertex="1">
+          <mxGeometry height="25" width="130" x="517" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-8" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="集团IP运维工作台" vertex="1">
+          <mxGeometry height="25" width="130" x="75" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-9" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#d79b00;" value="移动上网日志留存系统" vertex="1">
+          <mxGeometry height="25" width="130" x="517" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-10" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="CDN系统" vertex="1">
+          <mxGeometry height="25" width="130" x="75" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-11" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="上网日志集中存储平台" vertex="1">
+          <mxGeometry height="25" width="273" x="75" y="8" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-12" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#d79b00;" value="家宽上网日志留存系统" vertex="1">
+          <mxGeometry height="25" width="130" x="517" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-13" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="僵木蠕平台" vertex="1">
+          <mxGeometry height="25" width="130" x="669" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-14" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" value="省级网络安全态势感知平台" vertex="1">
+          <mxGeometry height="25" width="280" x="669" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-15" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="省级DNS系统" vertex="1">
+          <mxGeometry height="25" width="130" x="669" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-16" parent="qUD11XV8ODbNQHaWg1qz-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="ICP备案系统" vertex="1">
+          <mxGeometry height="25" width="130" x="218" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-17" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;fillColor=#f5f5f5;fontStyle=1;fontSize=16;align=center;" value="移动侧安全数据中台    数据采集" vertex="1">
+          <mxGeometry height="195" width="960" x="649" y="1377" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-18" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="接口网关" vertex="1">
+          <mxGeometry height="23" width="920" x="26" y="167" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-19" parent="qUD11XV8ODbNQHaWg1qz-17" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;fontColor=light-dark(#000000,#EDEDED);" value="主体定位类" vertex="1">
+          <mxGeometry height="64" width="22" x="743" y="69" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-20" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="98.5" width="354" x="380" y="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-21" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=none;strokeColor=#d6b656;" value="公有云IP地址主体信息" vertex="1">
+          <mxGeometry height="39" width="108" x="616" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-22" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=none;strokeColor=#d6b656;" value="公有云接入关联信息" vertex="1">
+          <mxGeometry height="39" width="108" x="616" y="102" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-23" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云访问日志" vertex="1">
+          <mxGeometry height="39.5" width="108" x="501" y="101.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-24" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云NAT映射日志" vertex="1">
+          <mxGeometry height="39" width="108" x="501" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-25" parent="qUD11XV8ODbNQHaWg1qz-17" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;" value="公有云类" vertex="1">
+          <mxGeometry height="64" width="22" x="354" y="69" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-26" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云控制台登录日志" vertex="1">
+          <mxGeometry height="39" width="108" x="387" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-27" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云告警日志" vertex="1">
+          <mxGeometry height="39" width="108" x="387" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-28" connectable="0" parent="qUD11XV8ODbNQHaWg1qz-17" style="group;dashed=1;fillColor=none;fontColor=#333333;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="158" width="192" x="766" y="21" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-29" parent="qUD11XV8ODbNQHaWg1qz-28" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="密钥信息" vertex="1">
+          <mxGeometry height="40" width="76.8" x="6.6" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-30" parent="qUD11XV8ODbNQHaWg1qz-28" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="域名&#xa;主体信息" vertex="1">
+          <mxGeometry height="40" width="76.8" x="88.2" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-31" parent="qUD11XV8ODbNQHaWg1qz-28" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="用户归属数据" vertex="1">
+          <mxGeometry height="37" width="76.8" x="6.6" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-32" parent="qUD11XV8ODbNQHaWg1qz-28" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="IP地址主体信息" vertex="1">
+          <mxGeometry height="37" width="76.8" x="88.2" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-33" parent="qUD11XV8ODbNQHaWg1qz-28" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="100" width="172" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-34" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="96.5" width="280" x="51" y="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-35" parent="qUD11XV8ODbNQHaWg1qz-17" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;" value="日志类" vertex="1">
+          <mxGeometry height="64" width="22" x="22" y="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-36" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="CDN业务&lt;br&gt;访问日志" vertex="1">
+          <mxGeometry height="40" width="70" x="62" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-37" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="物联网通联日志" vertex="1">
+          <mxGeometry height="39" width="85" x="231" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-38" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="移网上网日志" vertex="1">
+          <mxGeometry height="38.5" width="70" x="62" y="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-39" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="DNS解析日志" vertex="1">
+          <mxGeometry height="40" width="85" x="231" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-40" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="IDC访问日志" vertex="1">
+          <mxGeometry height="40" width="85" x="140" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-41" parent="qUD11XV8ODbNQHaWg1qz-17" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="NetFlow日志" vertex="1">
+          <mxGeometry height="38.5" width="85" x="140" y="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-42" edge="1" parent="1" style="endArrow=none;startArrow=classic;html=1;entryX=0.37;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1132" y="1605" as="sourcePoint" />
+            <mxPoint x="1132" y="1571.004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-43" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1147" y="1605" as="sourcePoint" />
+            <mxPoint x="1147" y="1571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-44" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#EDEDED);" value="指令下发" vertex="1">
+          <mxGeometry height="36" width="29.84" x="1102" y="1569" as="geometry" />
+        </mxCell>
+        <mxCell id="qUD11XV8ODbNQHaWg1qz-45" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#EDEDED);" value="指令反馈" vertex="1">
+          <mxGeometry height="36" width="29.84" x="1148.16" y="1568" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1014,7 +1155,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cGKapank9LYL9BXjcBCM" name="第 6 页">
-    <mxGraphModel dx="2037" dy="1061" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
