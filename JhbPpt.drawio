@@ -521,7 +521,7 @@
           <mxGeometry height="25" width="130" x="70" y="10" as="geometry" />
         </mxCell>
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-163" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" value="省级网络安全态势感知平台" vertex="1">
-          <mxGeometry height="25" width="130" x="670" y="10" as="geometry" />
+          <mxGeometry height="25" width="130" x="515" y="45" as="geometry" />
         </mxCell>
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-165" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="IP运维工作台" vertex="1">
           <mxGeometry height="25" width="130" x="364" y="45" as="geometry" />
@@ -531,9 +531,6 @@
         </mxCell>
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-157" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="上网日志集中存储平台" vertex="1">
           <mxGeometry height="25" width="130" x="364" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-148" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="云能力中心-安全云脑" vertex="1">
-          <mxGeometry height="25" width="130" x="517" y="115" as="geometry" />
         </mxCell>
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-164" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="蜜罐" vertex="1">
           <mxGeometry height="25" width="130" x="670" y="80" as="geometry" />
@@ -547,19 +544,16 @@
         <mxCell id="OLgHzJhwReHn5mEYLC4w-82" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="物联网系统" vertex="1">
           <mxGeometry height="25" width="130" x="818" y="116" as="geometry" />
         </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-83" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#d6b656;" value="家宽上网日志系统" vertex="1">
-          <mxGeometry height="25" width="130" x="517" y="80" as="geometry" />
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-83" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="家宽上网日志系统" vertex="1">
+          <mxGeometry height="25" width="130" x="515" y="80" as="geometry" />
         </mxCell>
         <mxCell id="OLgHzJhwReHn5mEYLC4w-84" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="CDN系统" vertex="1">
           <mxGeometry height="25" width="130" x="220" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="OLgHzJhwReHn5mEYLC4w-85" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#d6b656;" value="移动上网日志系统" vertex="1">
-          <mxGeometry height="25" width="130" x="517" y="45" as="geometry" />
-        </mxCell>
         <mxCell id="OLgHzJhwReHn5mEYLC4w-81" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="DNS系统" vertex="1">
           <mxGeometry height="25" width="130" x="220" y="116" as="geometry" />
         </mxCell>
-        <mxCell id="oKDtxWxFo2h5xGWPVuZX-156" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="上网日志查询平台" vertex="1">
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-156" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="上网日志查询平台" vertex="1">
           <mxGeometry height="25" width="130" x="515" y="10" as="geometry" />
         </mxCell>
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-161" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="IP备案系统" vertex="1">
@@ -579,6 +573,12 @@
         </mxCell>
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-153" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" value="安徽/湖南溯源定位系统" vertex="1">
           <mxGeometry height="25" width="130" x="818" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oKDtxWxFo2h5xGWPVuZX-148" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="云能力中心-安全云脑" vertex="1">
+          <mxGeometry height="25" width="130" x="670" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OLgHzJhwReHn5mEYLC4w-85" parent="oKDtxWxFo2h5xGWPVuZX-146" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="移动上网日志系统" vertex="1">
+          <mxGeometry height="25" width="130" x="515" y="115" as="geometry" />
         </mxCell>
         <mxCell id="oKDtxWxFo2h5xGWPVuZX-91" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="部侧" vertex="1">
           <mxGeometry height="149" width="160" x="637" y="343" as="geometry" />
@@ -1088,10 +1088,10 @@
           <mxGeometry height="36" width="29.84" x="1497" y="668" as="geometry" />
         </mxCell>
         <mxCell id="qUD11XV8ODbNQHaWg1qz-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;监测数据&lt;/div&gt;&lt;div&gt;溯源结果&lt;/div&gt;&lt;div&gt;定位结果&lt;/div&gt;&lt;div&gt;安全预警&lt;/div&gt;&lt;div&gt;安全事件&lt;/div&gt;" vertex="1">
-          <mxGeometry height="77" width="60" x="903" y="616" as="geometry" />
+          <mxGeometry height="77" width="60" x="983" y="621" as="geometry" />
         </mxCell>
         <mxCell id="qUD11XV8ODbNQHaWg1qz-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="溯源指令&lt;div&gt;定位指令&lt;br&gt;&lt;div&gt;查询指令&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="49" width="60" x="986" y="646" as="geometry" />
+          <mxGeometry height="49" width="60" x="899" y="627" as="geometry" />
         </mxCell>
         <mxCell id="qUD11XV8ODbNQHaWg1qz-62" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;监测数据&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(236, 236, 236);&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;溯源结果&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(236, 236, 236);&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;定位结果&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(236, 236, 236);&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;安全预警&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(236, 236, 236);&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;安全事件&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="94" width="76" x="1144" y="343" as="geometry" />
