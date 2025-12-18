@@ -1943,7 +1943,7 @@
           <mxGeometry height="30" width="60" x="541" y="660" as="geometry" />
         </mxCell>
         <mxCell id="HI3VpByQHhH0hS0oYFCE-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="指令交互&lt;div&gt;信息交互&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="1308.08" y="1160" as="geometry" />
+          <mxGeometry height="30" width="60" x="1299" y="1158" as="geometry" />
         </mxCell>
         <mxCell id="HI3VpByQHhH0hS0oYFCE-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="溯源指令&lt;div&gt;监测指令&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1224" y="1158" as="geometry" />
@@ -1976,7 +1976,7 @@
           <mxGeometry height="90" width="79" x="1127" y="1233" as="geometry" />
         </mxCell>
         <mxCell id="HI3VpByQHhH0hS0oYFCE-206" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="省专安全系统" vertex="1">
-          <mxGeometry height="30" width="45" x="355" y="1263" as="geometry" />
+          <mxGeometry height="30" width="45" x="350" y="1263" as="geometry" />
         </mxCell>
         <mxCell id="wOExQkrwUW1FcPi_fGI1-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=0;horizontal=1;horizontalStack=0;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSize=9;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" value="" vertex="1">
           <mxGeometry height="105" width="214" x="1073" y="803" as="geometry" />
