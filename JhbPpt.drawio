@@ -1014,72 +1014,57 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cGKapank9LYL9BXjcBCM" name="第 6 页">
-    <mxGraphModel dx="2562" dy="1143" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PdKHmrjY-9NYdUiMcqls-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=0;dashed=1;fillColor=none;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="151" width="960" x="291" y="904" as="geometry" />
+          <mxGeometry height="113" width="960" x="291" y="904" as="geometry" />
         </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-2" parent="PdKHmrjY-9NYdUiMcqls-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="安全&lt;br&gt;系统" vertex="1">
-          <mxGeometry height="40" width="40" x="10" y="50" as="geometry" />
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-2" parent="PdKHmrjY-9NYdUiMcqls-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="来源系统" vertex="1">
+          <mxGeometry height="81" width="14" x="8" y="12" as="geometry" />
         </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-3" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#d6b656;" value="资产管理系统" vertex="1">
-          <mxGeometry height="25" width="130" x="220" y="45" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-4" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#d6b656;" value="总部综合资管平台" vertex="1">
-          <mxGeometry height="25" width="130" x="220" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-6" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="抗DDoS攻击系统" vertex="1">
-          <mxGeometry height="25" width="130" x="70" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-7" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="僵木蠕监测平台" vertex="1">
-          <mxGeometry height="25" width="130" x="520" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-9" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" value="数智化部安全态势感知平台" vertex="1">
-          <mxGeometry height="25" width="130" x="70" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-10" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" value="省级网络安全态势感知平台" vertex="1">
-          <mxGeometry height="25" width="130" x="670" y="12" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-11" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#6c8ebf;" value="IP运维工作台" vertex="1">
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-11" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#6c8ebf;" value="省级IP运维工作台" vertex="1">
           <mxGeometry height="25" width="130" x="820" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-12" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="APT监测平台(信安)" vertex="1">
-          <mxGeometry height="25" width="130" x="70" y="45" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-13" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="上网日志集中存储平台" vertex="1">
-          <mxGeometry height="25" width="130" x="820" y="12" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-14" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="安管/湖南溯源定位系统" vertex="1">
-          <mxGeometry height="25" width="130" x="520" y="45" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-15" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="IP/网站备案系统" vertex="1">
-          <mxGeometry height="25" width="130" x="370" y="45" as="geometry" />
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-15" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="IP备案系统" vertex="1">
+          <mxGeometry height="25" width="130" x="75" y="10" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-16" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="云能力中心-安全云脑" vertex="1">
-          <mxGeometry height="25" width="130" x="370" y="12" as="geometry" />
+          <mxGeometry height="94" width="130" x="370" y="12" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-18" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="IDC/ISP信息安全管理系统" vertex="1">
-          <mxGeometry height="25" width="130" x="670" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-19" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="上网日志查询平台" vertex="1">
-          <mxGeometry height="25" width="130" x="220" y="12" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-20" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#6c8ebf;" value="CDN-省节点" vertex="1">
           <mxGeometry height="25" width="130" x="820" y="45" as="geometry" />
         </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-23" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="物联网系统" vertex="1">
-          <mxGeometry height="25" width="130" x="520" y="116" as="geometry" />
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-19" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="上网日志查询平台" vertex="1">
+          <mxGeometry height="25" width="130" x="517" y="12" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-25" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="集团IP运维工作台" vertex="1">
-          <mxGeometry height="25" width="130" x="370" y="80" as="geometry" />
+          <mxGeometry height="25" width="130" x="218" y="80" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-26" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="移动上网日志留存系统" vertex="1">
-          <mxGeometry height="25" width="130" x="670" y="116" as="geometry" />
+          <mxGeometry height="25" width="130" x="517" y="45" as="geometry" />
         </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-22" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="DNS系统" vertex="1">
-          <mxGeometry height="25" width="130" x="820" y="116" as="geometry" />
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-3" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="ICP备案系统" vertex="1">
+          <mxGeometry height="25" width="130" x="75" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-24" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="CDN系统" vertex="1">
+          <mxGeometry height="25" width="130" x="75" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-4" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="上网日志集中存储平台" vertex="1">
+          <mxGeometry height="25" width="130" x="218" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-5" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="家宽上网日志留存系统" vertex="1">
+          <mxGeometry height="25" width="130" x="517" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-6" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="僵木蠕平台" vertex="1">
+          <mxGeometry height="25" width="130" x="669" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-7" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" value="省级网络安全态势感知平台" vertex="1">
+          <mxGeometry height="25" width="130" x="669" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-8" parent="PdKHmrjY-9NYdUiMcqls-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="省级DNS系统" vertex="1">
+          <mxGeometry height="25" width="130" x="669" y="80" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-27" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="部侧" vertex="1">
           <mxGeometry height="149" width="160" x="298" y="252" as="geometry" />
@@ -1187,7 +1172,7 @@
           <mxGeometry height="158" width="178" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-62" parent="PdKHmrjY-9NYdUiMcqls-41" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;" value="日志类" vertex="1">
-          <mxGeometry height="64" width="22" x="388" y="96" as="geometry" />
+          <mxGeometry height="64" width="22" x="547" y="96" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-63" parent="PdKHmrjY-9NYdUiMcqls-41" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;fontColor=light-dark(#000000,#EDEDED);" value="主体定位类" vertex="1">
           <mxGeometry height="64" width="22" x="738" y="96" as="geometry" />
@@ -1199,25 +1184,49 @@
           <mxGeometry height="151" width="365" x="27" y="46" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-66" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="CDN业务&lt;br&gt;访问日志" vertex="1">
-          <mxGeometry height="40" width="70" x="414" y="52" as="geometry" />
+          <mxGeometry height="40" width="70" x="573" y="52" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-67" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="云平台日志信息" vertex="1">
-          <mxGeometry height="40" width="85" x="489" y="52" as="geometry" />
+          <mxGeometry height="40" width="85" x="648" y="52" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-68" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="移网上网日志" vertex="1">
-          <mxGeometry height="40" width="70" x="414" y="102" as="geometry" />
+          <mxGeometry height="40" width="70" x="573" y="102" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-69" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="DNS解析日志" vertex="1">
-          <mxGeometry height="40" width="85" x="489" y="102" as="geometry" />
+          <mxGeometry height="40" width="85" x="648" y="102" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-70" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="IDC/ISP上网日志" vertex="1">
-          <mxGeometry height="40" width="70" x="414" y="152" as="geometry" />
+          <mxGeometry height="40" width="70" x="573" y="152" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-71" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="NetFlow日志" vertex="1">
-          <mxGeometry height="40" width="85" x="489" y="152" as="geometry" />
+          <mxGeometry height="40" width="85" x="648" y="152" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-72" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="151" width="169" x="410" y="46" as="geometry" />
+          <mxGeometry height="151" width="169" x="569" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-9" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="163" width="138" x="413" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-10" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云IP地址主体信息" vertex="1">
+          <mxGeometry height="22" width="130" x="417" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-11" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云接入关联信息" vertex="1">
+          <mxGeometry height="21" width="130" x="417" y="79" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-12" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云访问日志" vertex="1">
+          <mxGeometry height="20" width="130" x="417" y="106" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-13" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云NAT映射日志" vertex="1">
+          <mxGeometry height="21" width="130" x="417" y="131" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-14" parent="PdKHmrjY-9NYdUiMcqls-41" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;" value="公有云类" vertex="1">
+          <mxGeometry height="64" width="22" x="391" y="87" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-15" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云控制台登录日志信息" vertex="1">
+          <mxGeometry height="20" width="130" x="417" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-16" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云告警日志" vertex="1">
+          <mxGeometry height="21" width="130" x="417" y="180" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-79" edge="1" parent="1" style="endArrow=none;startArrow=classic;html=1;entryX=0;entryY=0.5;endFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1417,9 +1426,6 @@
         <mxCell id="PdKHmrjY-9NYdUiMcqls-124" parent="PdKHmrjY-9NYdUiMcqls-121" style="rounded=0;whiteSpace=wrap;html=1;" value="突发事件" vertex="1">
           <mxGeometry height="30" width="120" x="20" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="" vertex="1">
-          <mxGeometry height="25" width="130" x="517" y="1146" as="geometry" />
-        </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;strokeColor=#9673a6;" value="蜜罐" vertex="1">
           <mxGeometry height="25" width="130" x="668" y="1146" as="geometry" />
         </mxCell>
@@ -1429,26 +1435,20 @@
         <mxCell id="PdKHmrjY-9NYdUiMcqls-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value="" vertex="1">
           <mxGeometry height="25" width="130" x="361" y="1146" as="geometry" />
         </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="180" width="138" x="1190" y="1120" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="APT攻击pcap包、恶意&lt;br&gt;文件、攻击程序文件" vertex="1">
-          <mxGeometry height="30" width="130" x="1194" y="1126" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="蜜罐系统pcap包、恶意&lt;br&gt;文件、攻击程序文件" vertex="1">
-          <mxGeometry height="30" width="130" x="1194" y="1161" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="僵木蠕系统pcap包、恶&lt;br&gt;意文件、攻击程序文件" vertex="1">
-          <mxGeometry height="30" width="130" x="1194" y="1196" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="手机恶意程序监控系统&lt;br&gt;恶意文件" vertex="1">
-          <mxGeometry height="30" width="130" x="1194" y="1231" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="态势感知系统pcap包、&lt;br&gt;恶意样本" vertex="1">
-          <mxGeometry height="30" width="130" x="1194" y="1266" as="geometry" />
-        </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-53" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;" value="流量样本类" vertex="1">
           <mxGeometry height="64" width="15" x="1164" y="1187" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" value="数智化部安全态势感知平台" vertex="1">
+          <mxGeometry height="25" width="130" x="72" y="916" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="APT监测平台(信安)" vertex="1">
+          <mxGeometry height="25" width="130" x="71" y="961.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="抗DDoS攻击系统" vertex="1">
+          <mxGeometry height="25" width="130" x="70" y="1009" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="上网日志集中存储平台" vertex="1">
+          <mxGeometry height="25" width="130" x="1001" y="1152" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
