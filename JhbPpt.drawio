@@ -1019,7 +1019,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PdKHmrjY-9NYdUiMcqls-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=0;dashed=1;fillColor=none;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="113" width="960" x="291" y="904" as="geometry" />
+          <mxGeometry height="113" width="960" x="291" y="842" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-2" parent="PdKHmrjY-9NYdUiMcqls-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="来源系统" vertex="1">
           <mxGeometry height="81" width="14" x="8" y="12" as="geometry" />
@@ -1112,121 +1112,79 @@
           <mxGeometry height="153" width="504" x="747" y="421" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-41" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;fillColor=#f5f5f5;fontStyle=1;fontSize=16;align=center;" value="移动侧安全数据中台    数据采集" vertex="1">
-          <mxGeometry height="256" width="960" x="291" y="614" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-42" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="DDoS保障对象/&lt;br&gt;攻击实时告警" vertex="1">
-          <mxGeometry height="40" width="90" x="33" y="52" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-43" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="IDC网络安全事件" vertex="1">
-          <mxGeometry height="40" width="90" x="128" y="52" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-44" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="移动恶意程序&lt;br&gt;事件" vertex="1">
-          <mxGeometry height="40" width="80" x="223" y="52" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-45" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="物联网网络&lt;br&gt;安全事件" vertex="1">
-          <mxGeometry height="40" width="80" x="308" y="52" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-46" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="APT事件" vertex="1">
-          <mxGeometry height="40" width="90" x="33" y="102" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-47" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="僵木蠕安全&lt;br&gt;事件" vertex="1">
-          <mxGeometry height="40" width="90" x="128" y="102" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-48" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="网信安全态势&lt;br&gt;网络安全事件" vertex="1">
-          <mxGeometry height="40" width="80" x="223" y="102" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-49" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="安管/湖南移动&lt;br&gt;安全事件" vertex="1">
-          <mxGeometry height="40" width="90" x="33" y="152" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-50" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="IT办公网态势&lt;br&gt;网络安全事件" vertex="1">
-          <mxGeometry height="40" width="90" x="128" y="152" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-51" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="移动云安全&lt;br&gt;事件" vertex="1">
-          <mxGeometry height="40" width="80" x="223" y="152" as="geometry" />
+          <mxGeometry height="195" width="960" x="291" y="614" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-52" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="接口网关" vertex="1">
-          <mxGeometry height="23" width="920" x="27" y="229" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-54" connectable="0" parent="PdKHmrjY-9NYdUiMcqls-41" style="group;dashed=1;fillColor=none;fontColor=#333333;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="158" width="192" x="760" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-55" parent="PdKHmrjY-9NYdUiMcqls-54" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="资产管理信息" vertex="1">
-          <mxGeometry height="40" width="76.80000000000001" x="9.600000000000001" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-56" parent="PdKHmrjY-9NYdUiMcqls-54" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="公有云主体信&#xa;息及密钥信息" vertex="1">
-          <mxGeometry height="40" width="76.80000000000001" x="91.2" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-57" parent="PdKHmrjY-9NYdUiMcqls-54" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="网站备案数据" vertex="1">
-          <mxGeometry height="40" width="76.80000000000001" x="9.600000000000001" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-58" parent="PdKHmrjY-9NYdUiMcqls-54" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="CDN IP域名&#xa;主体信息" vertex="1">
-          <mxGeometry height="40" width="76.80000000000001" x="91.2" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-59" parent="PdKHmrjY-9NYdUiMcqls-54" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="用户归属数据" vertex="1">
-          <mxGeometry height="40" width="76.80000000000001" x="9.600000000000001" y="110" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-60" parent="PdKHmrjY-9NYdUiMcqls-54" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="综资IP主体信息" vertex="1">
-          <mxGeometry height="40" width="76.80000000000001" x="91.2" y="110" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-61" parent="PdKHmrjY-9NYdUiMcqls-54" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="158" width="178" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-62" parent="PdKHmrjY-9NYdUiMcqls-41" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;" value="日志类" vertex="1">
-          <mxGeometry height="64" width="22" x="547" y="96" as="geometry" />
+          <mxGeometry height="23" width="920" x="26" y="167" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-63" parent="PdKHmrjY-9NYdUiMcqls-41" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;fontColor=light-dark(#000000,#EDEDED);" value="主体定位类" vertex="1">
-          <mxGeometry height="64" width="22" x="738" y="96" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-64" parent="PdKHmrjY-9NYdUiMcqls-41" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;" value="事件告警类" vertex="1">
-          <mxGeometry height="64" width="22" x="5" y="97" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-65" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="151" width="365" x="27" y="46" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-66" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="CDN业务&lt;br&gt;访问日志" vertex="1">
-          <mxGeometry height="40" width="70" x="573" y="52" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-67" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="云平台日志信息" vertex="1">
-          <mxGeometry height="40" width="85" x="648" y="52" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-68" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="移网上网日志" vertex="1">
-          <mxGeometry height="40" width="70" x="573" y="102" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-69" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="DNS解析日志" vertex="1">
-          <mxGeometry height="40" width="85" x="648" y="102" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-70" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="IDC/ISP上网日志" vertex="1">
-          <mxGeometry height="40" width="70" x="573" y="152" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-71" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="NetFlow日志" vertex="1">
-          <mxGeometry height="40" width="85" x="648" y="152" as="geometry" />
-        </mxCell>
-        <mxCell id="PdKHmrjY-9NYdUiMcqls-72" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="151" width="169" x="569" y="46" as="geometry" />
+          <mxGeometry height="64" width="22" x="743" y="69" as="geometry" />
         </mxCell>
         <mxCell id="azU_RfMiP12eSH4ZSzS7-9" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="163" width="138" x="413" y="46" as="geometry" />
+          <mxGeometry height="98.5" width="354" x="380" y="50.5" as="geometry" />
         </mxCell>
         <mxCell id="azU_RfMiP12eSH4ZSzS7-10" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云IP地址主体信息" vertex="1">
-          <mxGeometry height="22" width="130" x="417" y="52" as="geometry" />
+          <mxGeometry height="39" width="108" x="616" y="57" as="geometry" />
         </mxCell>
         <mxCell id="azU_RfMiP12eSH4ZSzS7-11" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云接入关联信息" vertex="1">
-          <mxGeometry height="21" width="130" x="417" y="79" as="geometry" />
+          <mxGeometry height="39" width="108" x="616" y="102" as="geometry" />
         </mxCell>
         <mxCell id="azU_RfMiP12eSH4ZSzS7-12" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云访问日志" vertex="1">
-          <mxGeometry height="20" width="130" x="417" y="106" as="geometry" />
+          <mxGeometry height="39.5" width="108" x="501" y="101.5" as="geometry" />
         </mxCell>
         <mxCell id="azU_RfMiP12eSH4ZSzS7-13" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云NAT映射日志" vertex="1">
-          <mxGeometry height="21" width="130" x="417" y="131" as="geometry" />
+          <mxGeometry height="39" width="108" x="501" y="57" as="geometry" />
         </mxCell>
         <mxCell id="azU_RfMiP12eSH4ZSzS7-14" parent="PdKHmrjY-9NYdUiMcqls-41" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;" value="公有云类" vertex="1">
-          <mxGeometry height="64" width="22" x="391" y="87" as="geometry" />
+          <mxGeometry height="64" width="22" x="354" y="69" as="geometry" />
         </mxCell>
-        <mxCell id="azU_RfMiP12eSH4ZSzS7-15" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云控制台登录日志信息" vertex="1">
-          <mxGeometry height="20" width="130" x="417" y="155" as="geometry" />
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-15" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云控制台登录日志" vertex="1">
+          <mxGeometry height="39" width="108" x="387" y="57" as="geometry" />
         </mxCell>
         <mxCell id="azU_RfMiP12eSH4ZSzS7-16" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="公有云告警日志" vertex="1">
-          <mxGeometry height="21" width="130" x="417" y="180" as="geometry" />
+          <mxGeometry height="39" width="108" x="387" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-54" connectable="0" parent="PdKHmrjY-9NYdUiMcqls-41" style="group;dashed=1;fillColor=none;fontColor=#333333;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="158" width="192" x="766" y="21" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-56" parent="PdKHmrjY-9NYdUiMcqls-54" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="密钥信息" vertex="1">
+          <mxGeometry height="40" width="76.8" x="6.6" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-58" parent="PdKHmrjY-9NYdUiMcqls-54" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="域名&#xa;主体信息" vertex="1">
+          <mxGeometry height="40" width="76.8" x="88.2" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-59" parent="PdKHmrjY-9NYdUiMcqls-54" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="用户归属数据" vertex="1">
+          <mxGeometry height="37" width="76.8" x="6.6" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-60" parent="PdKHmrjY-9NYdUiMcqls-54" style="rounded=0;whiteSpace=wrap;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#d79b00;" value="IP地址主体信息" vertex="1">
+          <mxGeometry height="37" width="76.8" x="88.2" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-61" parent="PdKHmrjY-9NYdUiMcqls-54" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="100" width="172" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-72" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="96.5" width="280" x="51" y="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-62" parent="PdKHmrjY-9NYdUiMcqls-41" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;" value="日志类" vertex="1">
+          <mxGeometry height="64" width="22" x="19" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-66" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="CDN业务&lt;br&gt;访问日志" vertex="1">
+          <mxGeometry height="40" width="70" x="62" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-67" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="物联网通联日志" vertex="1">
+          <mxGeometry height="39" width="85" x="231" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-68" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="移网上网日志" vertex="1">
+          <mxGeometry height="38.5" width="70" x="62" y="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-69" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="DNS解析日志" vertex="1">
+          <mxGeometry height="40" width="85" x="231" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-70" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="IDC访问日志" vertex="1">
+          <mxGeometry height="40" width="85" x="140" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-71" parent="PdKHmrjY-9NYdUiMcqls-41" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="NetFlow日志" vertex="1">
+          <mxGeometry height="38.5" width="85" x="140" y="57.5" as="geometry" />
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-79" edge="1" parent="1" style="endArrow=none;startArrow=classic;html=1;entryX=0;entryY=0.5;endFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1380,14 +1338,14 @@
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-115" edge="1" parent="1" style="endArrow=none;startArrow=classic;html=1;entryX=0.37;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="774" y="904" as="sourcePoint" />
-            <mxPoint x="774" y="870.0039999999999" as="targetPoint" />
+            <mxPoint x="774" y="842" as="sourcePoint" />
+            <mxPoint x="774" y="808.0039999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-116" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="789" y="904" as="sourcePoint" />
-            <mxPoint x="789" y="870" as="targetPoint" />
+            <mxPoint x="789" y="842" as="sourcePoint" />
+            <mxPoint x="789" y="808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-117" edge="1" parent="1" style="endArrow=none;startArrow=classic;html=1;entryX=0.37;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" value="">
@@ -1449,6 +1407,48 @@
         </mxCell>
         <mxCell id="PdKHmrjY-9NYdUiMcqls-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="上网日志集中存储平台" vertex="1">
           <mxGeometry height="25" width="130" x="1001" y="1152" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="DDoS保障对象/&lt;br&gt;攻击实时告警" vertex="1">
+          <mxGeometry height="40" width="90" x="554" y="1273" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="IDC网络安全事件" vertex="1">
+          <mxGeometry height="40" width="90" x="649" y="1273" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="移动恶意程序&lt;br&gt;事件" vertex="1">
+          <mxGeometry height="40" width="80" x="744" y="1273" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="物联网网络&lt;br&gt;安全事件" vertex="1">
+          <mxGeometry height="40" width="80" x="829" y="1273" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="APT事件" vertex="1">
+          <mxGeometry height="40" width="90" x="554" y="1323" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="僵木蠕安全&lt;br&gt;事件" vertex="1">
+          <mxGeometry height="40" width="90" x="649" y="1323" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="网信安全态势&lt;br&gt;网络安全事件" vertex="1">
+          <mxGeometry height="40" width="80" x="744" y="1323" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="安管/湖南移动&lt;br&gt;安全事件" vertex="1">
+          <mxGeometry height="40" width="90" x="554" y="1373" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="IT办公网态势&lt;br&gt;网络安全事件" vertex="1">
+          <mxGeometry height="40" width="90" x="649" y="1373" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="移动云安全&lt;br&gt;事件" vertex="1">
+          <mxGeometry height="40" width="80" x="744" y="1373" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="151" width="365" x="548" y="1267" as="geometry" />
+        </mxCell>
+        <mxCell id="PdKHmrjY-9NYdUiMcqls-64" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=south;textDirection=vertical-lr;" value="事件告警类" vertex="1">
+          <mxGeometry height="64" width="22" x="526" y="1318" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-20" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#EDEDED);" value="指令下发" vertex="1">
+          <mxGeometry height="36" width="29.84" x="744" y="806" as="geometry" />
+        </mxCell>
+        <mxCell id="azU_RfMiP12eSH4ZSzS7-21" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#EDEDED);" value="指令反馈" vertex="1">
+          <mxGeometry height="36" width="29.84" x="790.1600000000001" y="805" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
