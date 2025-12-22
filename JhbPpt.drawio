@@ -3177,8 +3177,8 @@
         <mxCell id="QGXZY_PzyzJKUozbkmuY-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;verticalAlign=top;fontStyle=1;fontSize=14;" value="自身安全管控子系统业务子系统" vertex="1">
           <mxGeometry height="80" width="334" x="1010" y="-1594" as="geometry" />
         </mxCell>
-        <mxCell id="QGXZY_PzyzJKUozbkmuY-51" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="数据源系统" vertex="1">
-          <mxGeometry height="420" width="100" x="860" y="-1560" as="geometry" />
+        <mxCell id="QGXZY_PzyzJKUozbkmuY-51" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="自身安全管控子系统" vertex="1">
+          <mxGeometry height="420" width="123" x="837" y="-1560" as="geometry" />
         </mxCell>
         <mxCell id="QGXZY_PzyzJKUozbkmuY-52" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="数据分类分级" vertex="1">
           <mxGeometry height="419" width="100" x="1040" y="-1560" as="geometry" />
